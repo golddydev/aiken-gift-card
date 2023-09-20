@@ -1,0 +1,10 @@
+{
+  "preamble": {
+    "title": "hypo/aiken-gift-card",
+    "description": "Aiken contracts for project 'hypo/aiken-gift-card'",
+    "version": "0.0.0",
+    "plutusVersion": "v2",
+    "license": "Apache-2.0"
+  },
+  "validators": []
+}
